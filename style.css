@@ -1,0 +1,41 @@
+canvas {
+  display: block;
+}
+
+html,
+body {
+  background-color: rgb(20, 20, 20);
+  display: table;
+  vertical-align: middle;
+  text-align: center;
+  padding: 0;
+  margin: auto;
+  line-height: 150%;
+  height: 100%;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  font-size: large;
+}
+p {
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  font-size: large;
+}
+a {
+  color: rgb(255, 255, 255);
+  font-family: sans-serif;
+  font-size: medium;
+}
+.large-space {
+  margin-top: 200px;
+}
+
+.space {
+  margin-top: 100px;
+}
+
+.small-space {
+  margin-top: 30px;
+}
